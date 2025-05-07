@@ -1,0 +1,52 @@
+
+
+.top-bar {
+    background-color: #0d1538;
+    color: #ffffff;
+    font-size: 0.9rem;
+  }
+  .top-bar a {
+    color: #00d4ff;
+    text-decoration: none;
+  }
+  .top-bar a:hover {
+    text-decoration: underline;
+  }
+  .social-icons a {
+    color: #ccc;
+    margin-left: 10px;
+  }
+  .social-icons a:hover {
+    color: #fff;
+  }
+  .customstyle{
+    height: 600px;
+    width: 100%;
+  }
+footer{
+    background-color:rgb(5, 0, 9);
+    color: white;
+}
+.ColorWhite{
+    color: white;
+}
+.footerUL{
+    font-size: large;
+}
+li::marker {
+    color: white;
+  }
+.footerLI{
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.customLink:link{
+    text-decoration: none;
+    color: white;
+}
+.customLink:visited{
+    color: white;
+}
+.customLink:hover{
+    color: rgb(137, 214, 197);
+}
